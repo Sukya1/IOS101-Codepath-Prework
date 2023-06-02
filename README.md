@@ -15,9 +15,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+Here's a walkthrough of the implemented app:
 
 <!-- Replace this with whatever GIF tool you used! -->
 ![Kapture 2023-06-02 at 17 55 42](https://github.com/Sukya1/IOS101-Codepath-Prework/assets/90349473/be6d5a28-9f23-46fa-845c-45ff58b4839c)
