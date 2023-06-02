@@ -21,7 +21,8 @@ Here's a walkthrough of implemented user stories:
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap !
-[Uploading Kapture 2023-06-02 at 17.55.42.gif…]()
+![Kapture 2023-06-02 at 17 55 42](https://github.com/Sukya1/IOS101-Codepath-Prework/assets/90349473/be6d5a28-9f23-46fa-845c-45ff58b4839c)
+
 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
