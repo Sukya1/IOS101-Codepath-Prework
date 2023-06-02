@@ -1,17 +1,17 @@
-# Prework - *Name of App Here*
+# Prework - *Starter*
 
 Submitted by: **Sukya Williams**
 
-**Name of your app** is an app that... [TODO] 
+**Starter** is an app that... has 3 labels that introduce myself, an image of myself and a button that changes the background color when clicked.
 
-Time spent: **X** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
+- [X] Users are see a screen with three labels and a button
+- [X] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
 
@@ -20,7 +20,7 @@ Here's a walkthrough of implemented user stories:
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Kap 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
