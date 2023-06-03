@@ -2,7 +2,7 @@
 
 Submitted by: **Sukya Williams**
 
-**Starter** is an app that... has 3 labels that introduce myself, an image of myself and a button that changes the background color when clicked.
+**Starter** is an app that has 3 labels that introduce myself, an image of myself and a button that changes the background color when clicked.
 
 Time spent: **2** hours spent in total
 
