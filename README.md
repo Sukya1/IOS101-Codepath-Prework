@@ -33,7 +33,7 @@ GIF created with Kap !
  3. Spotify - makes song suggestions, allows yout to shuffle and enhace a playlist
 
 ### App Idea 
-I would like to create an app that allows you to create workouts and allot time for each exercise. It saves each workout as a "playlist" and once you press start. It will give you 10 second to get ready, beep when the timer starts, tells you the exercise next up and how long you will do it through audio, gives encouraging words during the workout set. Beeps if there is a rest and repeats until the workout is done. It would have reccomended workouts. It would be cool if you could give it a workout from youtube and it converts it to a new workout "playlist" that you can do on your own using the app. It could also give you the option to link to your spotify account where you could pick a song for different portions of the workout if the user likes consistency. 
+I would like to create an app that allows you to create workouts and allot time for each exercise. It saves each workout as a "playlist". Once you press start, it will give you 10 second to get ready, beep when the timer starts, tells you the exercise next up and how long you will do it through audio. It would give encouraging words during the workout set, beep if there is a rest and repeats these steps until the workout is done. It would have recommended workouts. It would be cool if you could give it a workout from youtube and it converts it to a new workout "playlist" that you can do on your own using the app. It could also give you the option to link to your spotify account where you could pick a song for different portions of the workout if the user likes consistency. 
 ## Notes
 
 Describe any challenges encountered while building the app.
